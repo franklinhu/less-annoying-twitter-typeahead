@@ -1,7 +1,9 @@
 # less-annoying-twitter-typeahead
 
 A Chrome extension that reorders the typeahead results so you don't
-click the wrong link
+click the wrong link:
+
+[https://chrome.google.com/webstore/detail/less-annoying-twitter-typ/abhakfmijabbajofmjnbgfiencimnhaa](https://chrome.google.com/webstore/detail/less-annoying-twitter-typ/abhakfmijabbajofmjnbgfiencimnhaa)
 
 ## What this fixes
 
