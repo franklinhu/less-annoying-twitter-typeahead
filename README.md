@@ -1,7 +1,7 @@
 # less-annoying-twitter-typeahead
 
-A Chrome extension that reorders the typeahead topics so they don't
-show up where you least expect them
+A Chrome extension that reorders the typeahead results so you don't
+click the wrong link
 
 ## What this fixes
 
